@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/lexxbyte/lexxbyte/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lexxbyte/lexxbyte/blob/output/github-contribution-grid-snake.svg)
 
 ###
