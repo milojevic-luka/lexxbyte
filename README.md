@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/lexxbyte/lexxbyte/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/lexxbyte/lexxbyte/blob/output/github-contribution-grid-snake.svg)
 
 ###
