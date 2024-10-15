@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aleksa</h1>
 <h3 align="center">A student learning mobile development</h3>
 
@@ -51,12 +52,10 @@
   <a href="https://discord.com/channels/@gigachadlexx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <a href="https://onlyfans.com/gigachadlexx" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=OnlyFans&logo=onlyfans&label=&color=00AFF0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="onlyfans logo"  />
+   </a>
 </div>
-
-###
-
 <br clear="both">
-
-![snake gif](https://github.com/lexxbyte/lexxbyte/blob/output/github-contribution-grid-snake.svg)
 
 ###
